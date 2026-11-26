@@ -116,8 +116,12 @@ Developed two banking analytics dashboards to monitor loan performance, repaymen
 
 The project provided practical experience in working with multiple data analytics tools and presenting business insights through interactive dashboards.
 
-## 👨‍💻 Author
+## **Contact**
 
-**Sanjeev Peddi**
+Sanjeev Peddi
 
-Data Analyst | Excel | MySQL | Power BI | Tableau
+Aspiring Data Analyst
+
+Technical Skills: Excel | MySQL | Power BI | Tableau
+
+Please visit my GitHub profile to explore my projects and review my work.
