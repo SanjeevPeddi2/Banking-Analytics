@@ -4,7 +4,7 @@
 
 Banking Analytics is a data analytics project developed to analyze banking loan performance and banking transactions using Excel, MySQL, Power BI and Tableau.
 
-This project consists of two interactive dashboard solutions:
+This project consists of two interactive dashboard solutions :
 
 1. Banking Loan Analysis & Dashboard
 2. Debit and Credit Banking Transactions Dashboard
